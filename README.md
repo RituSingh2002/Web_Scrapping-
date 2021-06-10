@@ -46,8 +46,8 @@
         LeaderBoard 
     </h1>
     
- 
-    <img src="Screenshot (295).png" alt=""
+  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png" alt="">
+    <img src="Screenshot (295).png" alt="">
    
  <h1>My some social media links</h1>
       <p>Linkedin: <a href="https://www.linkedin.com/in/ritu-singh-534002194/" rel="nofollow">https://www.linkedin.com/in/ritu-singh-534002194/</a>
