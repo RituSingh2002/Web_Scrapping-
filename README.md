@@ -45,12 +45,15 @@
     <h1 style="font-size: 100px;">
         LeaderBoard 
     </h1>
-    <div style="display: inline;">
-     <img src="Screenshot (295).png" alt="">
-        <img src="Screenshot (296).png" alt="">
-</div>
+    
+ 
+    <img src="Screenshot (295).png" alt=""
+   
+ <h1>My some social media links</h1>
+      <p>Linkedin: <a href="https://www.linkedin.com/in/ritu-singh-534002194/" rel="nofollow">https://www.linkedin.com/in/ritu-singh-534002194/</a>
+     
+     
       
-
     
 </body>
 </html>
