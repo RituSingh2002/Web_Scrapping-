@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-     <style>
+<!--     <title>Document</title> -->
+<!--      <style>
          .a{
              font-size: 70px;
              margin-left: 400px;
@@ -18,10 +18,11 @@
              height: 200px;
             
          }
-     </style>
+     </style> -->
 </head>
 <body>
-    <h1 class="a"> Web Scrapping</h1>
+    <h1  style=" font-size: 70px;
+             margin-left: 400px;" > Web Scrapping</h1>
     <hr>
     <h1>
         Description:
@@ -57,6 +58,7 @@
     <h1 style="font-size: 100px;">
         LeaderBoard 
     </h1>
+     <img src="Screenshot (295).png" alt="">
 
     
 </body>
